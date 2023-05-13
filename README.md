@@ -4,7 +4,7 @@ My name is Irgi Fahlevi and welcome to my GitHub profile! Here's a little bit ab
 👀 I’m interested in computer science, software engineering, and web development.
 🌱 I’m currently learning more about data structures and algorithms, as well as improving my skills in React and Node.js.
 💞️ I’m looking to collaborate on open source projects or anything related to web development!
-📫 How to reach me: You can connect with me on LinkedIn or send me an email at irgifahlevi@gmail.com.
+📫 How to reach me: You can connect with me on LinkedIn or send me an email at irgifahlevi5@gmail.com.
 Technologies
 These are some of the technologies that I'm familiar with:
 
