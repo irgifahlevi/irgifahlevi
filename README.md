@@ -1,21 +1,23 @@
+
 Hi there! 👋
-My name is Irgi Fahlevi and welcome to my GitHub profile! Here's a little bit about me:
 
-👀 I’m interested in computer science, software engineering, and web development.
-🌱 I’m currently learning more about data structures and algorithms, as well as improving my skills in React and Node.js.
-💞️ I’m looking to collaborate on open source projects or anything related to web development!
-📫 How to reach me: You can connect with me on LinkedIn or send me an email at irgifahlevi5@gmail.com.
-Technologies
-These are some of the technologies that I'm familiar with:
+I'm Irgi Fahlevi, and welcome to my GitHub profile! Here's a snapshot of who I am:
 
-HTML
-CSS
-JavaScript
-React
+👀 I'm passionate about computer science, software engineering, and diving into the world of backend development.
+🌱 Currently, I'm sharpening my skills in data structures and algorithms, with a focus on mastering .NET Core and .NET Framework.
+💞️ I'm actively seeking opportunities to collaborate on open source projects or anything related to backend development!
+📫 You can reach out to me on LinkedIn or drop me an email at irgifahlevi5@gmail.com.
+Technologies I'm well-versed in:
+
+C#
+.NET Framework
+.NET Core
+PHP
+Laravel
 Node.js
 Express
 MongoDB
-Projects
-Check out some of my projects that I've built in my GitHub repositories! Feel free to give feedback or contribute to any of them.
 
-Thank you for stopping by and have a great day! 😊
+Explore some of the backend projects I've crafted in my GitHub repositories! Your feedback or contributions are always welcome.
+
+Thank you for dropping by, and have an awesome day! 😊
