@@ -10,7 +10,7 @@ I'm passionate about computer science, software engineering, and diving into the
 * ✉️  You can contact me at [irgifahlevi5@gmail.com](mailto:irgifahlevi5@gmail.com)
 * 🧠  I'm learning .NET Framework, .NET Core, ASP .NET and Laravel
 * 🤝  I'm open to collaborating on Other Web Development Projects
-* ⚡  I have a cat named mekly
+
 
 ### Skills
 
